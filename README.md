@@ -5,8 +5,7 @@ UTS analisis dan desain perangkat lunak
 3. findia permata (24343104)
 4. Afifah Amatullah (24343111)
 5. Ibnu Al Fatori (24343056)
-   
-
+    
 LOSTUNP: Solusi Cerdas Barang Hilang dan Ditemukan di Kampus UNP
 Aktivitas padat di lingkungan Universitas Negeri Padang (UNP) membuat barang pribadi seperti dompet, kunci, kartu identitas, alat tulis, hingga perangkat elektronik berisiko tertinggal atau hilang. Selama ini, informasi kehilangan dan penemuan barang masih tersebar di berbagai grup chat dan media sosial, sehingga sulit ditelusuri, rawan terlewat, serta belum memiliki verifikasi kepemilikan yang memadai.
 
